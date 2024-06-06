@@ -1,2 +1,2 @@
-# peerminal
-peer to peer terminal
+# pli
+peer to peer command-line interface
